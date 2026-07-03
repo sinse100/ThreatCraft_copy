@@ -394,7 +394,7 @@ The tool evaluates the most critical vulnerabilities within each asset in the ag
 
 ## ⚖️ License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.text).
 
 ---
 
