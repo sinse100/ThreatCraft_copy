@@ -23,9 +23,3 @@ The repository also provides example files that can be used to test the tool and
 ThreatCraft is organized as a reusable software artifact. Its source code, example files, and domain-specific threat libraries are provided in a structured form, allowing future users to inspect, modify, and extend the artifact.
 
 The threat libraries and example inputs can be adapted to additional domains or case studies. Therefore, the artifact can support further research and practical use beyond the evaluation cases described in the paper.
-
-## Limitations
-
-ThreatCraft is currently provided as a source-code artifact and is not packaged as a Docker image or virtual machine image.
-
-The LLM-based functionality requires valid GPT and Gemini API keys. These API keys are not included in the public repository.
