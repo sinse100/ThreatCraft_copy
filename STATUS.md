@@ -1,9 +1,5 @@
 # STATUS
 
-## Artifact Name
-
-ThreatCraft: Automated Attack Scenario Generation via Hybrid Rule-Based and LLM-Driven Reasoning
-
 ## Badges Applied For
 
 We apply for the following artifact badges:
