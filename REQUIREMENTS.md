@@ -10,6 +10,7 @@ ThreatCraft does not depend on any special hardware.
 
 System-level software:
 
+- Windows 10 or Windows 11
 - Python 3.10 or later
 - Graphviz system package
 
